@@ -41,7 +41,7 @@
     公式: EstimatedRTT = (1-α)·EstimatedRTT + α·EstimatedRTT (α = 0.125)
 
     往返时间图如下：
-    ![Round Trip Time Graph](https://github.com/china-university-mooc/Computer-Network/blob/master/resource/rtt-graph.png)
+    ![Round Trip Time Graph](https://raw.githubusercontent.com/china-university-mooc/Computer-Network/master/resource/time-sequence-graph.png)
 8. 前六个 TCP 区段的长度是多少?
 
     前六个报文段的长度分别是：706、1408、1408、1408、1408、1408
