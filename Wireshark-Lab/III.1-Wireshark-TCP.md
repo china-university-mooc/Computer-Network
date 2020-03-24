@@ -74,7 +74,7 @@
 		
     时序图如下：
 			 
-    ![Time Sequence Graph][https://raw.githubusercontent.com/china-university-mooc/Computer-Network/master/resource/time-sequence-graph.png]
+    ![Time Sequence Graph](https://raw.githubusercontent.com/china-university-mooc/Computer-Network/master/resource/time-sequence-graph.png)
 
     观察图可知，1s 时刻开始发送数据，慢启动开始，接着每隔 RTT 窗口尺寸翻倍, 直到 2.9s,慢启动结束
 
