@@ -3,9 +3,15 @@ from socket import *
 mailserver = 'smtp.163.com'
 username = 'emhhbmd6aGFvbm54QDE2My5jb20='
 password = 'QWJjMTk5NDExMDI='
-
 fromMail = 'zhangzhaonnx@163.com'
 toMail = '2442647554@qq.com'
+
+# mailserver = 'smtp.qq.com'
+# username = 'MjQ0MjY0NzU1NEBxcS5jb20='
+# password = 'b2p4cHR2bGdlZXNjZGlmaA=='
+# fromMail = '2442647554@qq.com'
+# toMail = 'zhangzhaonnx@163.com'
+
 subject = '2020 Organizational Structure Update'
 msg = \
 '''Dear TW China, 
