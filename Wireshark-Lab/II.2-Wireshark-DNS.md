@@ -1,4 +1,4 @@
-# Wireshark Lab: HTTP
+# Wireshark Lab: DNS
 
 ## 1. nslookup
 
